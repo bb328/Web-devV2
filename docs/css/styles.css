@@ -1,0 +1,83 @@
+#wrapper {
+    width: 960px;
+    background-color: blanchedalmond;
+}
+
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+.alignCenter{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.displayInline {
+    display: inline;
+}
+.sqrPadding {
+    padding-left: 31px;
+    padding-right: 31px;
+}
+
+#banner {
+
+    background-image: url("../images/beer.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+#top {
+    height: 135px;
+    line-height: 135px;
+}
+
+.clearMargin {
+
+    margin: 0px;
+}
+.clearPadding {
+    padding: 0px;
+}
+
+.clearFix {
+    clear: both;
+}
+
+.grSmall {
+    width: 329px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+.grBig {
+    width: 545px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.grFont{
+    font-family: Helvetica SansSerif, serif;
+    line-height: 27px;
+    font-size: 16px;
+}
+.Helvetica{
+    font-family: "Helvetica Neue", serif;
+}
+.textRight {
+    text-align: right;
+}
+
+
+#panel1, #panel2, #panel3 {
+
+    width: 320px;
+}
+
+.alignRight {
+    text-align: right;
+}
